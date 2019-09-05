@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dielahmete.billyanelli.com/sitemap.xml
